@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-pandu" alt="ravi-pandu" /></a> </p>
 
-- 🔭 I’m currently working on **Graduate Engineer Trainee**
+- 🚀 Exploring AI&ML
 
 - 🌱 I’m currently learning **✅ Currently learning and exploring open‑source contributions. ✅ Currently learning to build scalable projects and strengthen coding skills. ✅ Currently learning new frameworks and eager to collaborate on projects.**
 
